@@ -7,3 +7,12 @@ let sum = numberOne + numberTwo;
 console.log(sum)
 
 console.log("Esta es un nuevo cambio")
+
+
+let numeroDos = 12;
+
+let numberTres = 6;
+
+let division = numeroDos / numberTres;
+
+console.log(division);
