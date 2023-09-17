@@ -14,3 +14,9 @@ ul{
     list-style: none;
     color: red;
 }
+
+li{
+    padding: 5px;
+    color: gray;
+    font-size: 1.7em;
+}
